@@ -1,0 +1,38 @@
+{
+  "name": "ymsj",
+  "version": "2.0.0",
+  "description": "医美视界官网改版2.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-asset-rev": "0.0.15",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^1.2.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.3.2",
+    "gulp-rev": "^8.0.0",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-sync": "^0.1.4",
+    "gulp-uglify": "^3.0.0",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wginit"
+  ],
+  "author": "wginit",
+  "license": "ISC"
+}
