@@ -1,7 +1,7 @@
 {
-  "name": "ymsj",
-  "version": "2.0.0",
-  "description": "医美视界官网改版2.0",
+  "name": "wginit",
+  "version": "1.0.0",
+  "description": "wginit demo",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1"
